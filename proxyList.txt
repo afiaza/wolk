@@ -1098,7 +1098,6 @@
 129.153.127.204,20756,US,Oracle Corporation
 129.152.2.127,1488,IT,Oracle Corporation
 129.154.254.254,8443,IN,Oracle Corporation
-129.150.50.63,443,SG,Oracle Corporation
 129.159.118.130,18513,US,Oracle Corporation
 129.159.32.235,53520,US,Oracle Corporation
 129.159.130.38,443,IL,Oracle Corporation
@@ -1220,7 +1219,6 @@
 138.2.12.103,14453,JP,Oracle Corporation
 138.2.12.10,45805,JP,Oracle Corporation
 138.2.124.28,31698,KR,Oracle Corporation
-138.2.109.23,587,SG,Oracle Corporation
 138.2.21.196,44333,JP,Oracle Corporation
 138.2.46.179,10928,JP,Oracle Corporation
 138.2.59.96,10129,JP,Oracle Corporation
@@ -1563,7 +1561,6 @@
 144.202.110.223,35740,US,The Constant Company
 144.202.110.174,26932,US,The Constant Company
 143.244.130.180,443,IN,DigitalOcean, LLC
-143.198.85.62,41536,SG,DigitalOcean, LLC
 144.34.163.149,58431,US,IT7 Networks Inc
 144.34.173.175,10082,US,IT7 Networks Inc
 144.34.170.149,2000,US,IT7 Networks Inc
@@ -2806,7 +2803,6 @@
 185.238.169.177,443,NL,Scalaxy B.V.
 185.241.254.210,23058,PL,Grzegorz Wloch trading as LUKSUS
 185.236.233.172,443,NL,Stark Industries Solutions LTD
-185.235.243.20,8443,TR,Stark Industries Solutions LTD
 185.234.66.91,443,TR,Stark Industries Solutions LTD
 185.235.243.223,8443,TR,Stark Industries Solutions LTD
 185.233.82.101,8444,FI,First Server Limited
@@ -7074,16 +7070,11 @@
 103.170.72.120,27013,US,Fengniao Network
 103.170.72.120,25122,US,Fengniao Network
 103.167.234.131,8443,AL,Albanian Hosting SH.P.K
-103.231.75.153,2053,TR,Stark Industries Solutions LTD
-103.231.75.226,2053,TR,Stark Industries Solutions LTD
 103.172.41.223,443,HK,Akari Networks
 103.241.66.68,8443,IT,Kamatera, Inc.
 103.45.247.67,443,NL,Kamatera Inc
 103.45.247.134,443,NL,Kamatera Inc
 103.241.66.68,2053,IT,Kamatera, Inc.
-103.231.75.23,2053,TR,Stark Industries Solutions LTD
-103.231.75.23,8443,TR,Stark Industries Solutions LTD
-103.231.75.238,2053,TR,Stark Industries Solutions LTD
 103.232.214.11,8443,JP,NPO G-net
 103.225.198.7,443,HK,ASIANET
 103.45.247.251,2053,NL,Kamatera Inc
@@ -7115,10 +7106,7 @@
 104.233.185.39,14685,US,PEG TECH INC
 104.233.185.39,58486,US,PEG TECH INC
 104.233.185.39,30440,US,PEG TECH INC
-104.239.87.213,2053,TR,Baxet Group Inc.
 104.239.87.197,2053,TR,Baxet Group Inc.
-104.239.87.213,8443,TR,Baxet Group Inc.
-104.239.87.222,8443,TR,Baxet Group Inc.
 104.248.146.212,2053,SG,DigitalOcean, LLC
 104.248.145.216,443,SG,DigitalOcean, LLC
 104.248.146.212,8443,SG,DigitalOcean, LLC
@@ -7660,7 +7648,6 @@
 141.98.169.81,2053,FI,Stark Industries Solutions LTD
 141.98.169.24,2053,FI,Stark Industries Solutions LTD
 141.98.169.81,8443,FI,Stark Industries Solutions LTD
-141.98.118.47,443,TR,Hostigger INC.
 141.98.169.49,443,FI,Stark Industries Solutions LTD
 142.44.158.62,2053,EE,OVH Hosting
 142.44.158.62,8443,EE,OVH Hosting
@@ -8003,8 +7990,6 @@
 154.55.138.210,20006,HK,HONG KONG Megalayer Technology Co., Limited
 154.55.138.210,20010,HK,HONG KONG Megalayer Technology Co., Limited
 154.55.138.210,20015,HK,HONG KONG Megalayer Technology Co., Limited
-156.67.63.105,8443,TR,Hostkey B.V.
-156.67.63.105,2053,TR,Hostkey B.V.
 156.254.114.186,443,HK,StepGo Limited
 154.91.196.46,443,HK,Gigabit Solution Limited
 154.90.39.188,48071,MY,Kaopu Cloud HK Limited
@@ -8200,7 +8185,6 @@
 176.107.131.92,8443,PL,Aruba S.p.A.
 176.107.131.62,2053,PL,Aruba S.p.A.
 176.114.69.36,8443,RU,JSC Selectel
-176.116.6.39,2053,TR,Tres Teknoloji A.S.
 176.10.97.93,443,CH,Datasource AG
 175.97.191.217,30100,TW,Taiwan Fixed Network
 176.120.75.32,2061,US,Stark Industries Solutions LTD
@@ -8268,19 +8252,15 @@
 176.31.223.154,8443,FR,OVH SAS
 176.241.244.215,17858,PL,JMDI Jacek Maleszko
 176.223.66.5,8080,TR,Tres Teknoloji A.S.
-176.223.66.150,2020,TR,Tres Teknoloji A.S.
 176.124.222.238,2053,RU,Aeza Group Ltd.
-176.223.66.140,3443,TR,Tres Teknoloji A.S.
 176.57.104.51,22181,ES,Spotting Brands Technologies S.L.
 176.96.138.193,1003,DE,dataforest GmbH
 176.57.211.166,2053,RU,TimeWeb Ltd.
 176.57.211.166,8443,RU,TimeWeb Ltd.
-176.223.66.153,8443,TR,Tres Teknoloji A.S.
 176.33.95.240,12560,TR,Tellcom Broadband Network Statement
 176.57.221.250,2053,PL,TimeWeb Ltd.
 176.57.221.178,2053,PL,TimeWeb Ltd.
 176.57.221.250,8443,PL,TimeWeb Ltd.
-176.223.66.153,2053,TR,Tres Teknoloji A.S.
 176.97.77.241,2053,SE,M247 Europe SRL
 176.97.76.48,2053,EG,M247 Europe SRL
 176.97.70.51,2053,JP,CLOUD-NETWORK
@@ -8484,7 +8464,6 @@
 185.153.181.173,2053,FI,Stark Industries Solutions LTD
 185.153.181.173,8443,FI,Stark Industries Solutions LTD
 185.153.181.200,8443,FI,Stark Industries Solutions LTD
-185.153.182.182,2053,TR,Stark Industries Solutions LTD
 185.144.244.210,12535,PL,IVENDO Bartosz Kucmin
 185.151.247.22,8443,PL,Host4Biz sp. z o.o.
 185.139.69.181,2053,RU,First Server Limited
@@ -8492,10 +8471,8 @@
 185.153.183.185,2053,FR,Stark Industries Solutions LTD
 185.155.220.64,443,NL,Schokker IT B.V.
 185.156.108.102,2053,FI,Stark Industries Solutions LTD
-185.153.182.58,8443,TR,Stark Industries Solutions LTD
 185.153.182.58,2053,TR,Stark Industries Solutions LTD
 185.156.108.202,2053,FI,Stark Industries Solutions LTD
-185.153.182.182,8443,TR,Stark Industries Solutions LTD
 185.154.194.20,2053,RU,TimeWeb Ltd.
 185.154.194.20,8443,RU,TimeWeb Ltd.
 185.159.131.180,2053,FR,CGI GLOBAL LIMITED
@@ -8525,7 +8502,6 @@
 185.174.137.106,8443,FI,Aeza International LTD
 185.174.137.106,2053,FI,Aeza International LTD
 185.18.54.61,1080,NL,WorldStream B.V.
-185.181.210.171,2053,TR,Hostigger INC.
 185.181.210.171,8443,TR,Hostigger INC.
 185.174.137.35,2053,FI,Aeza International LTD
 185.174.137.35,443,FI,Aeza International LTD
@@ -9267,7 +9243,6 @@
 206.206.76.208,2053,SG,Ipxo LLC
 206.206.76.208,8443,SG,Ipxo LLC
 206.237.0.221,35690,HK,Xnnet LLC
-206.189.157.190,2053,SG,DigitalOcean, LLC
 209.141.46.53,53600,US,FranTech Solutions
 209.141.46.53,58294,US,FranTech Solutions
 209.141.46.53,45722,US,FranTech Solutions
@@ -11698,7 +11673,6 @@
 80.211.249.79,8443,PL,Aruba S.p.A. Network
 80.211.249.240,2053,PL,Aruba S.p.A. Network
 8.219.3.213,41074,SG,Alibaba (US) Technology Co., Ltd.
-8.219.170.57,8000,SG,Alibaba (US) Technology Co., Ltd.
 8.219.59.132,48130,SG,Alibaba (US) Technology Co., Ltd.
 8.222.173.58,23390,SG,Alibaba (US) Technology Co., Ltd.
 8.222.212.110,1103,SG,Alibaba (US) Technology Co., Ltd.
