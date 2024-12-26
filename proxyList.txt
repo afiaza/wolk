@@ -1271,16 +1271,13 @@
 139.162.73.24,18836,JP,Akamai Technologies, Inc.
 139.28.220.254,2053,FI,I-servers LTD
 139.185.46.148,31135,AE,Oracle Corporation
-139.180.131.125,10005,SG,SGP VULTR
 139.162.48.174,10000,SG,Akamai Technologies, Inc.
-139.180.136.178,29806,SG,SGP VULTR
 139.162.33.248,587,SG,Akamai Technologies, Inc.
 139.180.215.77,57878,SG,SGP VULTR
 139.60.162.153,443,US,HOSTKEY
 139.59.206.9,443,DE,DigitalOcean, LLC
 139.59.140.30,443,DE,DIGITALOCEAN
 14.32.178.121,39455,KR,Korea Telecom
-139.180.136.178,29661,SG,SGP VULTR
 139.180.144.170,666,SG,SGP VULTR
 139.99.236.163,443,AU,OVH SAS
 139.185.39.214,11759,AE,Oracle Corporation
@@ -1401,7 +1398,6 @@
 140.245.67.101,50001,KR,Oracle Corporation
 140.238.56.153,1443,JP,Oracle Corporation
 140.238.62.82,1443,JP,Oracle Corporation
-140.245.61.163,39863,SG,Oracle Corporation
 141.11.219.114,8080,HK,Akile LTD
 141.11.218.249,8080,HK,Akile LTD
 141.11.148.62,443,HK,Akile LTD
@@ -1558,7 +1554,6 @@
 142.93.37.152,2052,GB,DigitalOcean, LLC
 143.198.213.197,443,SG,DigitalOcean, LLC
 143.198.213.197,8443,SG,DigitalOcean, LLC
-143.198.85.62,18163,SG,DigitalOcean, LLC
 143.42.68.97,17055,SG,Akamai Technologies, Inc.
 144.202.8.217,28602,US,The Constant Company
 144.168.62.18,51204,US,IT7 Networks Inc
@@ -1568,7 +1563,6 @@
 144.202.110.223,35740,US,The Constant Company
 144.202.110.174,26932,US,The Constant Company
 143.244.130.180,443,IN,DigitalOcean, LLC
-143.198.85.62,49270,SG,DigitalOcean, LLC
 143.198.85.62,41536,SG,DigitalOcean, LLC
 144.34.163.149,58431,US,IT7 Networks Inc
 144.34.173.175,10082,US,IT7 Networks Inc
@@ -1813,7 +1807,6 @@
 148.251.30.237,20717,DE,Hetzner Online GmbH
 148.251.134.189,443,DE,Hetzner Online GmbH
 148.251.157.127,443,DE,Hetzner Online GmbH
-149.104.8.95,23333,SG,Xnnet LLC
 149.129.8.215,443,KR,Alibaba (US) Technology Co., Ltd.
 149.28.247.220,443,US,The Constant Company
 149.28.247.220,8443,US,The Constant Company
@@ -1853,7 +1846,6 @@
 15.204.67.30,2083,US,OVH SAS
 15.235.199.103,2053,SG,OVH SAS
 15.235.162.49,443,SG,OVH SAS
-15.235.197.205,587,SG,OVH SAS
 150.230.42.80,443,US,Oracle Corporation
 150.230.20.156,2053,NL,Oracle Corporation
 150.230.20.156,8443,NL,Oracle Corporation
@@ -2087,7 +2079,6 @@
 159.65.94.176,8080,GB,DigitalOcean, LLC
 159.65.201.249,8443,NL,DigitalOcean, LLC
 159.69.102.185,2053,DE,Hetzner Online GmbH
-159.65.135.51,2053,SG,DigitalOcean, LLC
 159.69.111.215,110,DE,Hetzner Online GmbH
 159.69.189.130,2095,DE,Hetzner Online GmbH
 159.69.189.130,2082,DE,Hetzner Online GmbH
@@ -2485,7 +2476,6 @@
 176.124.205.119,8443,US,Aeza International LTD
 176.124.220.127,443,FI,Aeza International LTD
 176.124.207.133,8443,SE,Aeza International LTD
-176.124.206.72,2053,FI,Aeza International LTD
 176.124.206.229,443,FI,Aeza International LTD
 176.124.205.2,2053,US,Aeza International LTD
 176.222.54.31,443,NL,SAS Neo Services
@@ -2926,7 +2916,6 @@
 188.165.26.118,8443,LT,OVH ISP
 188.124.64.173,36665,BG,Simnet Ltd
 188.166.255.195,443,SG,DigitalOcean, LLC
-188.166.241.181,2053,SG,DigitalOcean, LLC
 188.121.97.199,80,IR,Noyan Abr Arvan Co. ( Private Joint Stock)
 188.166.78.158,2053,NL,DigitalOcean, LLC
 188.166.78.56,443,NL,DigitalOcean, LLC
@@ -2935,7 +2924,6 @@
 188.213.168.52,443,IT,Aruba S.p.A. Network
 188.245.103.92,443,DE,Hetzner Online GmbH
 188.225.57.11,2053,RU,TimeWeb Co. LTD
-188.166.255.195,8443,SG,DigitalOcean, LLC
 188.225.31.62,443,KZ,TimeWeb Ltd.
 188.245.112.108,445,DE,Hetzner Online GmbH
 188.245.145.207,2096,DE,Hetzner Online GmbH
@@ -3120,10 +3108,8 @@
 193.17.183.166,2053,ES,NEAR IP, S.L.
 193.176.179.214,443,FR,CGI GLOBAL LIMITED
 193.168.144.81,443,CH,Serverd SAS
-193.164.155.215,443,FI,CGI GLOBAL LIMITED
 193.164.155.89,2053,FI,CGI GLOBAL LIMITED
 193.169.116.73,29468,PL,Audio Systems s.c. Robert Grzegorek, Aleksander Cuprych
-193.164.155.223,443,FI,CGI GLOBAL LIMITED
 193.164.155.240,443,FI,CGI GLOBAL LIMITED
 193.164.155.140,443,FI,CGI GLOBAL LIMITED
 193.176.179.89,443,FR,CGI GLOBAL LIMITED
@@ -3160,7 +3146,6 @@
 193.233.233.75,8443,AT,Aeza International LTD
 193.32.178.24,443,NL,Baykov Ilya Sergeevich
 193.33.153.151,443,NL,Aeza International LTD
-193.32.179.26,443,FI,Baykov Ilya Sergeevich
 193.233.48.29,8081,RU,Global Internet Solutions LLC
 193.239.166.244,443,SG,First Server Limited
 193.33.194.31,443,NL,Servers Tech Fzco
@@ -3270,7 +3255,6 @@
 194.36.179.17,8443,SG,First Server Limited
 194.36.179.17,2053,SG,First Server Limited
 194.36.178.36,2053,SG,First Server Limited
-194.36.178.132,443,SG,First Server Limited
 194.35.119.193,443,PL,TimeWeb Ltd.
 194.54.158.187,443,NL,Stark Industries Solutions LTD
 194.59.247.202,443,NL,Stark Industries Solutions LTD
@@ -3536,7 +3520,6 @@
 209.146.100.10,13379,US,Cogent Communications
 207.174.30.74,443,NL,Baxet Group Inc.
 209.146.103.197,587,US,Cogent Communications
-207.148.122.83,8443,SG,Choopa
 206.237.6.57,443,HK,Xnnet LLC
 209.38.48.80,443,US,DigitalOcean, LLC
 209.250.234.187,443,DE,The Constant Company, LLC
@@ -4285,14 +4268,9 @@
 37.27.197.102,443,FI,Hetzner Online GmbH
 37.27.199.89,8443,FI,Hetzner Online GmbH
 37.27.206.159,2096,FI,Hetzner Online GmbH
-37.27.196.71,7080,FI,Hetzner Online GmbH
-37.27.199.89,443,FI,Hetzner Online GmbH
-37.27.206.43,8443,FI,Hetzner Online GmbH
-37.27.206.50,8443,FI,Hetzner Online GmbH
 37.27.20.100,443,FI,Hetzner Online GmbH
 37.27.200.216,443,FI,Hetzner Online GmbH
 37.27.86.53,8443,FI,Hetzner Online GmbH
-37.27.42.20,443,FI,Hetzner Online GmbH
 37.27.85.102,443,FI,Hetzner Online GmbH
 37.27.35.135,6003,FI,Hetzner Online GmbH
 37.27.38.42,443,FI,Hetzner Online GmbH
@@ -4310,7 +4288,6 @@
 37.27.94.34,8443,FI,Hetzner Online GmbH
 37.27.40.190,443,FI,Hetzner Online GmbH
 37.27.95.70,2086,FI,Hetzner Online GmbH
-37.27.46.234,443,FI,Hetzner Online GmbH
 38.180.127.82,443,CA,eStruxture Data Centers Inc.
 38.180.133.83,443,NL,Scalaxy B.V.
 38.180.121.147,443,NL,Scalaxy B.V.
@@ -4505,7 +4482,6 @@
 39.126.188.174,50000,KR,SK Broadband Co Ltd
 39.126.191.210,17795,KR,HCN CHUNGBUK CABLE TV SYSTEMS
 42.147.103.54,29332,JP,JCOM Co., Ltd.
-4.193.111.126,40809,SG,Microsoft Corporation
 43.135.166.95,11030,US,Shenzhen Tencent Computer Systems Company Limited
 42.147.103.54,26305,JP,JCOM Co., Ltd.
 43.129.160.101,54739,HK,Shenzhen Tencent Computer Systems Company Limited
@@ -4613,8 +4589,6 @@
 45.157.233.83,3107,DE,dataforest GmbH
 45.157.233.83,3108,DE,dataforest GmbH
 45.156.23.229,443,NL,CGI GLOBAL LIMITED
-45.156.22.157,443,FI,CGI GLOBAL LIMITED
-45.156.22.157,52911,FI,CGI GLOBAL LIMITED
 45.156.22.114,443,FI,CGI GLOBAL LIMITED
 45.156.23.250,443,NL,CGI GLOBAL LIMITED
 45.32.149.77,2096,FR,The Constant Company
@@ -4823,7 +4797,6 @@
 46.8.70.45,8443,FI,CGI GLOBAL LIMITED
 46.8.233.147,443,FI,CGI GLOBAL LIMITED
 46.8.237.3,443,FI,CGI GLOBAL LIMITED
-46.8.233.87,443,FI,CGI GLOBAL LIMITED
 46.8.232.217,443,FI,CGI GLOBAL LIMITED
 46.8.229.48,443,NL,CGI GLOBAL LIMITED
 47.236.246.163,14108,SG,Alibaba (US) Technology Co., Ltd.
@@ -5050,7 +5023,6 @@
 5.188.82.107,2087,RU,JSC Selectel
 5.226.48.165,30540,JP,Akari Networks
 5.188.33.21,57602,HK,G-Core Labs S.A
-5.223.41.42,443,SG,Hetzner Online GmbH
 5.188.38.184,38001,RU,EdgeCenter LLC
 5.252.22.242,443,DE,Stark Industries Solutions LTD
 5.252.22.124,2054,DE,Stark Industries Solutions LTD
@@ -5299,7 +5271,6 @@
 51.89.23.100,2087,DE,OVH SAS
 52.68.248.185,443,JP,Amazon Technologies Inc.
 54.169.229.188,443,SG,Amazon.com, Inc.
-52.77.19.190,443,SG,Amazon.com, Inc.
 54.36.6.183,2053,FR,OVH SAS
 54.36.226.41,2053,GB,OVH SAS
 54.37.206.169,21808,DE,OVH SAS
@@ -6179,8 +6150,6 @@
 80.240.16.108,443,DE,The Constant Company, LLC
 80.240.18.157,2053,DE,The Constant Company, LLC
 8.220.241.120,14559,KR,Alibaba (US) Technology Co., Ltd.
-8.219.163.164,36261,SG,Alibaba (US) Technology Co., Ltd.
-8.219.50.5,29220,SG,Alibaba Cloud (Singapore) Private Limited
 8.222.129.175,58808,SG,Alibaba Cloud (Singapore) Private Limited
 8.222.143.82,24245,SG,Alibaba (US) Technology Co., Ltd.
 8.222.243.73,26385,SG,Alibaba (US) Technology Co., Ltd.
@@ -7117,7 +7086,6 @@
 103.231.75.238,2053,TR,Stark Industries Solutions LTD
 103.232.214.11,8443,JP,NPO G-net
 103.225.198.7,443,HK,ASIANET
-103.248.228.247,28359,SG,Akari Networks
 103.45.247.251,2053,NL,Kamatera Inc
 103.45.245.208,2053,ES,Kamatera, Inc.
 103.90.73.16,443,NL,Clodo Cloud Service CO. L.L.C
@@ -8789,7 +8757,6 @@
 188.212.124.32,443,NL,Mvps LTD
 188.165.26.180,8443,LT,OVH ISP
 188.212.125.72,4433,NL,Mvps LTD
-188.166.241.181,8443,SG,DigitalOcean, LLC
 188.227.86.12,30718,NL,ITGLOBAL.COM NL B.V.
 188.215.229.74,8443,NL,365 Online Technology Joint Stock Company
 188.227.86.29,443,NL,ITGLOBAL.COM NL B.V.
@@ -9297,7 +9264,6 @@
 206.166.251.92,443,NL,BL Networks
 208.76.222.64,443,ES,The Constant Company
 209.141.46.53,10095,US,FranTech Solutions
-206.189.157.190,8443,SG,DigitalOcean, LLC
 206.206.76.208,2053,SG,Ipxo LLC
 206.206.76.208,8443,SG,Ipxo LLC
 206.237.0.221,35690,HK,Xnnet LLC
@@ -9309,8 +9275,6 @@
 209.141.46.53,49923,US,FranTech Solutions
 209.141.46.53,59854,US,FranTech Solutions
 207.226.152.42,443,US,PCCW Global, Inc.
-207.148.68.228,80,SG,SGP VULTR
-207.148.122.83,2053,SG,Choopa
 209.141.46.53,29719,US,FranTech Solutions
 209.141.46.53,21503,US,FranTech Solutions
 209.227.237.239,8443,IT,Aruba S.p.A.
@@ -9951,14 +9915,12 @@
 43.156.6.97,10392,SG,Shenzhen Tencent Computer Systems Company Limited
 43.156.26.205,23654,SG,Shenzhen Tencent Computer Systems Company Limited
 43.156.97.73,57145,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.48.40,443,SG,Shenzhen Tencent Computer Systems Company Limited
 43.134.5.247,23509,SG,Shenzhen Tencent Computer Systems Company Limited
 43.134.99.162,51686,SG,Shenzhen Tencent Computer Systems Company Limited
 45.11.93.113,80,US,CGI GLOBAL LIMITED
 45.11.93.113,443,US,CGI GLOBAL LIMITED
 45.112.195.103,2053,FR,OVH SAS
 45.11.181.82,1225,RO,M247 Europe SRL
-43.156.110.170,19933,SG,Shenzhen Tencent Computer Systems Company Limited
 43.249.172.15,443,HK,Yancy Limited
 43.229.149.251,8443,TH,Readyiedc Company Limited
 43.252.41.204,2443,HK,CommuniLink
@@ -9998,7 +9960,6 @@
 45.130.151.168,8443,RU,FOP Hornostay Mykhaylo Ivanovych
 45.130.151.168,2053,RU,FOP Hornostay Mykhaylo Ivanovych
 45.129.3.158,443,RU,LLC Baxet
-45.129.228.31,8443,SG,Catixs Ltd
 45.136.199.132,443,EG,Managed by IROKO Networks
 45.136.199.77,443,EG,Managed by IROKO Networks
 45.136.196.24,22053,ES,Managed by IROKO Networks
@@ -10459,7 +10420,6 @@
 47.89.150.45,21575,US,Alibaba.com LLC
 47.243.128.70,11997,HK,Alibaba (US) Technology Co., Ltd.
 47.243.57.167,28094,HK,Alibaba (US) Technology Co., Ltd.
-47.245.86.45,40692,SG,Alibaba (US) Technology Co., Ltd.
 47.245.91.197,9000,SG,Alibaba (US) Technology Co., Ltd.
 47.90.140.40,44203,US,Alibaba.com LLC
 49.13.133.138,40182,DE,Hetzner Online GmbH
@@ -10584,7 +10544,6 @@
 5.252.22.124,2061,DE,Stark Industries Solutions LTD
 5.253.189.31,443,NL,NKtelecom INC
 5.226.51.247,443,JP,Akari Networks
-5.223.41.26,2083,SG,Hetzner Online GmbH
 5.223.49.4,2053,SG,Hetzner Online GmbH
 5.202.6.21,2096,IR,Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
 5.230.71.40,8443,DE,GHOSTnet GmbH
@@ -12211,7 +12170,6 @@
 89.35.131.5,443,NL,SOLLUTIUM EU Sp z.o.o.
 89.29.239.159,14437,ES,TV ALMANSA GPON
 89.28.236.243,443,DK,Webdock.io ApS
-89.34.227.5,33203,SG,ByteVirt LLC
 89.31.120.36,41358,AE,M247 Europe SRL
 89.31.120.79,56531,AE,M247 Europe SRL
 89.36.160.230,2053,PL,Melbikomas UAB
@@ -12654,10 +12612,6 @@
 94.74.102.232,19228,HK,Huawei International Pte. LTD
 95.142.41.132,443,NL,Iron Hosting Centre LTD
 95.163.240.24,2053,RU,"Domain names registrar REG.RU", Ltd
-95.111.194.218,2053,SG,UpCloud Ltd
-95.111.196.51,8443,SG,UpCloud Ltd
-95.111.195.49,8443,SG,UpCloud Ltd
-95.111.194.218,8443,SG,UpCloud Ltd
 95.164.0.163,2053,PL,Stark Industries Solutions LTD
 95.164.0.155,443,PL,Stark Industries Solutions LTD
 95.164.0.224,2053,PL,Stark Industries Solutions LTD
