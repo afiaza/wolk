@@ -1,11 +1,9 @@
-172.232.239.134,587,ID,Akamai Technologies  Inc
 172.232.239.175,587,ID,Akamai Technologies  Inc
 103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
 172.232.239.151,587,ID,Akamai Technologies  Inc
 172.232.239.249,587,ID,Akamai Technologies  Inc
 103.133.223.50,2096,ID,Pt Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Pt Cloud Teknologi Nusantara
-103.186.1.209,2053,ID,Pt Cloud Hosting Indonesia
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 43.133.145.156,53136,ID,Tencent Cloud Computing
 103.186.1.209,8443,ID,Idcloud Indonesia
@@ -22,7 +20,6 @@
 51.79.158.126,443,SG,OVH SAS
 154.91.84.10,8443,SG,Tcloudnet Inc
 139.180.144.170,666,SG,The Constant Company  LLC
-54.251.167.101,443,SG,Amazon com  Inc
 146.235.18.248,45137,SG,Oracle Corporation
 45.77.171.102,3128,SG,The Constant Company  LLC
 138.2.89.238,43254,SG,Oracle Corporation
@@ -35,7 +32,6 @@
 213.35.108.135,12596,SG,Oracle Corporation
 168.138.183.48,9090,SG,Oracle Corporation
 194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE  LTD
-188.166.255.195,443,SG,Digitalocean  LLC
 161.117.249.114,2025,SG,Alibaba us Technology Co   Ltd
 8.222.243.73,26385,SG,Alibaba us Technology Co   Ltd
 47.236.173.166,587,SG,Alibaba us Technology Co   Ltd
@@ -314,7 +310,6 @@
 107.175.35.20,27661,US,HostPapa
 107.175.35.20,52290,US,HostPapa
 107.182.17.246,34401,US,IT7 Networks Inc
-107.175.28.15,31947,US,HostPapa
 107.175.254.239,39128,US,HostPapa
 108.174.50.200,2083,US,HostPapa
 107.182.185.191,17732,US,IT7 Networks Inc
@@ -425,7 +420,6 @@
 112.165.17.199,34529,KR,Korea Telecom
 112.164.6.175,30661,KR,Korea Telecom
 112.165.17.199,18292,KR,Korea Telecom
-112.166.128.60,50000,KR,Korea Telecom
 112.166.170.246,30001,KR,Korea Telecom
 112.165.17.199,15602,KR,Korea Telecom
 112.166.170.246,30041,KR,Korea Telecom
@@ -442,64 +436,37 @@
 112.170.112.178,28154,KR,Korea Telecom
 112.170.112.178,27023,KR,Korea Telecom
 112.184.192.250,30084,KR,Korea Telecom
-112.184.45.203,30068,KR,Korea Telecom
-112.172.38.246,17894,KR,Korea Telecom
-112.173.140.3,12654,KR,Korea Telecom
 112.184.1.101,16357,KR,Korea Telecom
-112.172.38.246,34608,KR,Korea Telecom
 112.186.144.121,30035,KR,Korea Telecom
-112.185.132.6,50000,KR,Korea Telecom
-112.186.12.243,30069,KR,Korea Telecom
-112.186.238.7,50004,KR,Korea Telecom
-112.186.231.58,11377,KR,Korea Telecom
 112.218.194.82,30063,KR,LG DACOM Corporation
 112.187.98.56,30036,KR,Korea Telecom
-112.187.35.37,50000,KR,Korea Telecom
 112.186.40.60,18789,KR,Korea Telecom
 112.187.52.194,25211,KR,Korea Telecom
 112.218.194.82,23281,KR,LG DACOM Corporation
-112.221.184.36,30067,KR,LG DACOM Corporation
-112.221.184.36,50000,KR,LG DACOM Corporation
-112.221.184.36,30064,KR,LG DACOM Corporation
-112.218.93.125,12160,KR,LG DACOM Corporation
 112.222.129.170,50000,KR,LG DACOM Corporation
 112.222.87.59,12731,KR,LG DACOM Corporation
-112.223.172.3,50000,KR,LG DACOM Corporation
 112.222.87.59,37014,KR,LG DACOM Corporation
 112.72.216.5,26109,KR,HYUNDAI HCN Chungbuk Systems Co.Ltd
-112.72.244.48,13368,KR,HYUNDAI HCN Chungbuk Systems Co.Ltd
 112.222.87.59,32226,KR,LG DACOM Corporation
 112.222.87.59,20724,KR,LG DACOM Corporation
 112.222.87.59,17777,KR,LG DACOM Corporation
 113.252.92.221,34507,HK,HGC Global Communications Limited
-112.72.244.48,12292,KR,HYUNDAI HCN Chungbuk Systems Co.Ltd
 112.72.240.72,50000,KR,HCN CHUNGBUK CABLE TV SYSTEMS
-113.12.23.104,27952,CN,Chinanet
-113.12.23.104,37132,CN,Chinanet
-113.12.23.104,21181,CN,Chinanet
-113.12.23.104,33570,CN,Chinanet
-113.12.23.104,14137,CN,Chinanet
 113.252.92.221,13538,HK,HGC Global Communications Limited
-113.255.161.29,11916,HK,HGC Global Communications Limited
 113.254.239.245,11885,HK,HGC Global Communications Limited
 113.252.92.221,19228,HK,HGC Global Communications Limited
 113.253.142.18,20703,HK,HGC Global Communications Limited
-113.255.161.29,18415,HK,HGC Global Communications Limited
 113.254.28.142,22200,HK,HGC Global Communications Limited
 113.253.124.194,11457,HK,HGC Global Communications Limited
 115.140.58.54,36829,KR,LG POWERCOMM
 114.95.239.63,16022,CN,China Telecom (Group)
 115.23.95.237,50003,KR,Korea Telecom
-115.22.115.218,30067,KR,Korea Telecom
 115.22.113.186,14593,KR,Korea Telecom
-115.22.115.218,30040,KR,Korea Telecom
 115.22.115.218,19359,KR,Korea Telecom
 115.40.240.254,37594,KR,CJ Hello Co
 115.40.240.254,22724,KR,CJ Hello Co
 115.242.180.202,19000,IN,Reliance Jio Infocomm Limited
-115.23.60.105,38728,KR,Korea Telecom
 115.40.240.254,26357,KR,CJ Hello Co
-115.40.33.103,30073,KR,LG HelloVision Corp.
 115.40.240.254,11209,KR,CJ Hello Co
 115.40.240.254,16062,KR,CJ Hello Co
 115.40.240.254,29888,KR,CJ Hello Co
