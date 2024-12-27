@@ -6,7 +6,6 @@
 103.133.223.51,2096,ID,Pt Cloud Teknologi Nusantara
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 43.133.145.156,53136,ID,Tencent Cloud Computing
-103.186.1.209,8443,ID,Idcloud Indonesia
 103.133.223.52,2096,ID,Idcloud Indonesia
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
 172.232.239.147,587,ID,Akamai Technologies  Inc
@@ -494,7 +493,6 @@
 115.69.98.176,13343,KR,Gyeongbuk Cable TV
 116.202.190.172,8443,DE,Hetzner Online GmbH
 116.202.13.91,7080,DE,Hetzner Online GmbH
-116.202.195.240,2079,DE,Hetzner Online GmbH
 116.203.10.252,8443,DE,Hetzner Online GmbH
 116.202.31.174,443,DE,Hetzner Online GmbH
 116.202.165.119,8443,DE,Hetzner Online GmbH
@@ -511,12 +509,9 @@
 116.203.62.23,2053,DE,Hetzner Online GmbH
 116.203.75.244,50273,DE,Hetzner Online GmbH
 116.203.11.199,8443,DE,Hetzner Online GmbH
-116.203.39.157,8443,DE,Hetzner Online GmbH
-116.203.99.143,40000,DE,Hetzner Online GmbH
 116.203.254.200,2053,DE,Hetzner Online GmbH
 116.203.83.121,2083,DE,Hetzner Online GmbH
 116.203.83.121,2053,DE,Hetzner Online GmbH
-116.203.91.224,3040,DE,Hetzner Online GmbH
 116.228.40.230,10095,CN,China Telecom (Group)
 116.228.40.230,21916,CN,China Telecom (Group)
 116.225.125.144,20025,CN,China Telecom (Group)
@@ -983,12 +978,9 @@
 125.204.173.119,10884,JP,NTT Communications Corporation
 125.7.24.251,443,AU,Macquarie Telecom
 125.240.230.170,34408,KR,DACOM-PUBNETPLUS
-128.140.15.188,2087,DE,Hetzner Online GmbH
 128.140.123.118,443,DE,Hetzner Online GmbH
 128.140.36.134,1000,DE,Hetzner Online GmbH
-128.140.15.188,8443,DE,Hetzner Online GmbH
 128.140.11.25,25690,DE,Hetzner Online GmbH
-128.140.15.188,2086,DE,Hetzner Online GmbH
 128.140.2.140,443,DE,Hetzner Online GmbH
 128.134.195.17,50000,KR,Korea Telecom
 128.1.79.171,587,TH,Zenlayer Inc
@@ -996,8 +988,6 @@
 128.140.75.146,443,DE,Hetzner Online GmbH
 128.140.5.0,110,DE,Hetzner Online GmbH
 128.140.71.144,443,DE,Hetzner Online GmbH
-128.140.50.32,443,DE,Hetzner Online GmbH
-128.140.52.169,80,DE,Hetzner Online GmbH
 128.140.48.73,443,DE,Hetzner Online GmbH
 128.140.15.188,2082,DE,Hetzner Online GmbH
 128.140.8.129,50000,DE,Hetzner Online GmbH
@@ -1073,7 +1063,6 @@
 13.250.131.37,443,SG,Amazon Technologies Inc.
 130.162.193.183,15401,AU,Oracle Corporation
 130.185.249.22,8080,GB,Clouvieder Limited
-130.61.170.78,443,DE,Oracle Corporation
 130.61.107.238,8443,DE,Oracle Corporation
 130.61.203.115,8443,DE,Oracle Corporation
 130.61.23.77,443,DE,Oracle Corporation
