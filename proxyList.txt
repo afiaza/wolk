@@ -3133,6 +3133,7 @@
 193.42.243.134,38767,PL,STUDIO WIK sp. z o.o
 193.42.63.141,2083,FR,velia.net Internetdienste GmbH
 193.70.0.78,2053,FR,OVH SAS
+4.193.111.126,40809,SG,Microsoft+Azure
 193.56.3.214,443,NL,Indivdual Entrepreneur Anton Levin
 193.56.3.71,8443,NL,Indivdual Entrepreneur Anton Levin
 193.56.3.163,443,NL,Indivdual Entrepreneur Anton Levin
