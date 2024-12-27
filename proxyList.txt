@@ -25,18 +25,29 @@
 47.74.254.191,8900,SG,Alibaba us Technology Co   Ltd
 129.150.58.86,57621,SG,Oracle Corporation
 103.180.161.10,587,SG,Hong Kong Megalayer Technology Co  limited
-54.169.229.188,443,SG,Amazon Inc
-18.141.114.130,52132,SG,Amazon inc
+54.169.229.188,443,SG,Amazon Technologies Inc
+18.141.114.130,52132,SG,Amazon Technologies Inc
+13.228.155.72,443,SG,Amazon Technologies Inc
+13.229.159.215,443,SG,Amazon Technologies Inc
+13.229.23.63,53443,SG,Amazon Technologies Inc
+13.250.38.94,443,SG,Amazon Technologies Inc
+13.250.14.76,443,SG,Amazon Technologies Inc
+138.2.101.213,15204,SG,Oracle Corporation
 168.138.166.213,10500,SG,Oracle Corporation
 213.35.108.135,12596,SG,Oracle Corporation
 168.138.183.48,9090,SG,Oracle Corporation
+160.22.79.174,443,SG,Onidel Pty Ltd
 194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE  LTD
 161.117.249.114,2025,SG,Alibaba us Technology Co   Ltd
 8.222.243.73,26385,SG,Alibaba us Technology Co   Ltd
 47.236.173.166,587,SG,Alibaba us Technology Co   Ltd
 94.237.75.31,62174,SG,Upcloud LTD
 178.128.80.43,443,SG,Digitalocean  LLC
+128.199.218.226,443,SG,Digitalocean  LLC
+129.150.50.21,44009,SG,Oracle Corporation
+129.150.62.1,24016,SG,Oracle Corporation
 168.138.160.54,19081,SG,Oracle Corporation
+13.228.142.218,443,SG,Amazon Technologies Inc
 8.222.143.82,24245,SG,Alibaba us Technology Co   Ltd
 47.236.246.163,14108,SG,Alibaba us Technology Co   Ltd
 158.178.225.124,37461,SG,Oracle Corporation
@@ -73,6 +84,7 @@
 138.2.95.61,1111,SG,Oracle Corporation
 45.76.156.96,2053,SG,SGP VULTR
 139.180.215.77,57878,SG,SGP VULTR
+139.99.83.49,50622,SG,OVH Singapore PTE. LTD
 185.81.28.95,30503,SG,Akile LTD
 185.126.80.215,25565,SG,Akile LTD
 164.52.2.100,443,SG,CDS Global Cloud CO.
@@ -1187,6 +1199,7 @@
 138.68.177.117,443,GB,DigitalOcean, LLC
 138.68.170.81,8443,GB,DigitalOcean, LLC
 138.68.141.220,2053,GB,DigitalOcean, LLC
+150.109.24.233,6666,SG,Aceville Pte.ltd
 138.201.244.245,2087,DE,Hetzner Online GmbH
 138.201.244.245,8080,DE,Hetzner Online GmbH
 138.201.244.245,2095,DE,Hetzner Online GmbH
@@ -3156,6 +3169,7 @@
 194.127.193.124,24467,SG,Leaseweb Singapore Pte. Ltd.
 194.127.193.240,50791,SG,Leaseweb Singapore Pte. Ltd.
 194.135.25.23,34902,KZ,JSC Transtelecom
+194.9.62.132,57255,SG,SPEEDYPAGE-LTD
 194.164.32.75,2053,NL,Servers Tech Fzco
 194.164.33.236,443,NL,Servers Tech Fzco
 194.147.33.29,443,NL,Baykov Ilya Sergeevich
@@ -7467,6 +7481,7 @@
 138.2.36.157,8443,JP,Oracle Corporation
 138.2.19.28,61731,JP,Oracle Corporation
 138.2.111.140,10010,SG,Oracle Corporation
+138.2.66.92,443,SG,Oracle Corporation
 138.2.19.1,61731,JP,Oracle Corporation
 138.68.141.220,8443,GB,DigitalOcean, LLC
 138.68.170.81,2087,GB,DigitalOcean, LLC
@@ -9748,6 +9763,7 @@
 38.114.101.214,2053,US,Cogent Communications
 38.114.101.214,443,US,Cogent Communications
 38.145.211.153,10443,US,Enzu Inc
+31.40.212.216,8443,AR,BrainStorm Network Inc
 38.148.254.137,23762,US,Cogent Communications
 38.148.254.137,16583,US,Cogent Communications
 38.180.110.184,2053,PL,Artnet Sp. z o.o.
