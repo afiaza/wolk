@@ -2422,7 +2422,6 @@
 176.124.205.92,2053,US,Aeza International LTD
 176.124.221.6,31975,DE,Aeza International LTD
 176.124.205.119,8443,US,Aeza International LTD
-176.124.220.127,443,FI,Aeza International LTD
 176.124.207.133,8443,SE,Aeza International LTD
 176.124.206.229,443,FI,Aeza International LTD
 176.124.205.2,2053,US,Aeza International LTD
@@ -3148,7 +3147,6 @@
 193.70.95.206,8443,PL,OVH SAS
 193.84.2.64,443,FI,Hostkey B.V.
 193.84.2.206,443,FI,Hostkey B.V.
-193.84.2.58,8443,FI,Hostkey B.V.
 193.84.2.58,443,FI,Hostkey B.V.
 194.113.211.115,2053,US,Kamatera, Inc.
 194.113.153.237,443,NL,Hostkey B.V.
@@ -4215,7 +4213,6 @@
 37.27.179.80,8443,FI,Hetzner Online GmbH
 37.27.17.144,22222,FI,Hetzner Online GmbH
 37.27.197.102,443,FI,Hetzner Online GmbH
-37.27.199.89,8443,FI,Hetzner Online GmbH
 37.27.206.159,2096,FI,Hetzner Online GmbH
 37.27.20.100,443,FI,Hetzner Online GmbH
 37.27.200.216,443,FI,Hetzner Online GmbH
@@ -4226,7 +4223,6 @@
 37.27.42.211,80,FI,Hetzner Online GmbH
 37.27.33.145,443,FI,Hetzner Online GmbH
 37.27.80.227,443,FI,Hetzner Online GmbH
-37.27.40.131,2087,FI,Hetzner Online GmbH
 37.27.4.238,443,FI,Hetzner Online GmbH
 38.106.22.77,8888,US,TechAvenue Sdn Bhd
 38.150.34.2,443,US,Cogent Communications
@@ -5526,7 +5522,6 @@
 65.108.60.143,1401,FI,Hetzner Online GmbH
 65.109.161.254,2053,FI,Hetzner Online GmbH
 65.108.60.143,1400,FI,Hetzner Online GmbH
-65.108.217.111,8088,FI,Hetzner Online GmbH
 65.108.95.178,443,FI,Hetzner Online GmbH
 65.108.217.111,4443,FI,Hetzner Online GmbH
 65.108.221.173,443,FI,Hetzner Online GmbH
@@ -5540,33 +5535,15 @@
 65.109.161.254,8443,FI,Hetzner Online GmbH
 65.109.165.189,7070,FI,Hetzner Online GmbH
 65.108.254.30,443,FI,Hetzner Online GmbH
-65.109.179.159,2082,FI,Hetzner Online GmbH
 65.109.181.4,80,FI,Hetzner Online GmbH
 65.109.177.3,7101,FI,Hetzner Online GmbH
 65.109.178.243,3030,FI,Hetzner Online GmbH
 65.109.181.40,49911,FI,Hetzner Online GmbH
-65.109.179.159,2083,FI,Hetzner Online GmbH
-65.109.179.159,2084,FI,Hetzner Online GmbH
-65.109.180.104,8443,FI,Hetzner Online GmbH
-65.109.177.3,7301,FI,Hetzner Online GmbH
-65.109.182.192,2053,FI,Hetzner Online GmbH
-65.109.182.192,8443,FI,Hetzner Online GmbH
-65.109.182.235,19517,FI,Hetzner Online GmbH
-65.109.184.140,8443,FI,Hetzner Online GmbH
-65.109.183.165,2087,FI,Hetzner Online GmbH
 65.109.184.193,2096,FI,Hetzner Online GmbH
-65.109.182.192,17678,FI,Hetzner Online GmbH
-65.109.182.192,17244,FI,Hetzner Online GmbH
 65.109.181.192,4475,FI,Hetzner Online GmbH
 65.109.180.78,33180,FI,Hetzner Online GmbH
-65.109.182.192,25554,FI,Hetzner Online GmbH
 65.109.184.193,2082,FI,Hetzner Online GmbH
-65.109.182.235,443,FI,Hetzner Online GmbH
-65.109.186.190,2053,FI,Hetzner Online GmbH
-65.109.182.235,55915,FI,Hetzner Online GmbH
 65.109.184.193,2087,FI,Hetzner Online GmbH
-65.109.187.112,2030,FI,Hetzner Online GmbH
-65.109.187.200,12345,FI,Hetzner Online GmbH
 65.109.185.229,1001,FI,Hetzner Online GmbH
 65.109.182.34,2053,FI,Hetzner Online GmbH
 65.109.188.82,443,FI,Hetzner Online GmbH
