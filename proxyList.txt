@@ -15,6 +15,7 @@
 8.218.107.145,31166,ID,PT DENEVA
 43.218.77.16,1443,ID, AMAZON
 149.129.250.187,443,ID,PT ALIBABA
+203.194.112.119,2053,ID,CV Rumahweb Indonesia
 20.198.241.32,2053,SG,Microsoft Corporation
 51.79.158.126,443,SG,OVH SAS
 154.91.84.10,8443,SG,Tcloudnet Inc
@@ -80,6 +81,7 @@
 119.81.201.154,9089,SG,Softlayer Technologies Inc
 143.42.68.97,17055,SG,Akamai Technologies  Inc
 62.72.46.14,8443,SG,Contabo Asia Private Limited
+82.197.69.135,43536,SG,Contabo Asia Private Limited
 158.178.225.124,53618,SG,Oracle Corporation
 138.2.95.61,1111,SG,Oracle Corporation
 45.76.156.96,2053,SG,SGP VULTR
