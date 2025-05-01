@@ -33,6 +33,7 @@
 13.250.38.94,443,SG,Amazon Technologies Inc
 13.250.14.76,443,SG,Amazon Technologies Inc
 138.2.101.213,15204,SG,Oracle Corporation
+185.169.107.99,443,AE,Digital City FZE
 168.138.166.213,10500,SG,Oracle Corporation
 213.35.108.135,12596,SG,Oracle Corporation
 168.138.183.48,9090,SG,Oracle Corporation
